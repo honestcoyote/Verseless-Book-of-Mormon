@@ -15,7 +15,7 @@ Paragraphs are created where the text seems to indicate. When in doubt, I referr
 
 Dialogue is broken out into its own paragraphs. Quotation marks, missing from the original, are added.
 
-I have made some light edits to the original text. For the most part, this involved removing most of instances of "And it came to pass." If you have previously read the Book of Mormon, you will already know this phrase is used constantly. I've left a few of these instances intact for the sake of flavor, but I've removed the majority of them. Since my project is at least partly aimed at non-Mormon readers, I think this change will greatly improve readability.
+I have made some light edits to the original text. For the most part, this involved removing most instances of "And it came to pass." If you have previously read the Book of Mormon, you will already know this phrase is used constantly. I've left a few of these instances intact for the sake of flavor, but I've removed the majority of them. Since my project is at least partly aimed at non-Mormon readers, I think this change will greatly improve readability.
 
 The other edits are also very light. A few changes to punctuation, a removal of a few redundant sentences, and in a few cases I've added a word or two to clarify who is speaking in a dialogue or sermon.
 
